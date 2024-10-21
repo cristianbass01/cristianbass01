@@ -88,7 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cristianbass01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbass01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbass01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph" />
 
   <div style="margin-top: 10px;">
     
@@ -99,7 +99,7 @@
 
 ## <img src="animations/writing_hand.png" width="30" /> How to reach me?  
 
-<div align-items="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25" />&nbsp;&nbsp;&nbsp;
   <a href="https://it.linkedin.com/in/cristian-bassotto-2a620122b"> Cristian Bassotto </a>
 </div>
