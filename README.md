@@ -92,7 +92,7 @@
 
   <div style="margin-top: 10px;">
     
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cristianbass01&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=cristianbass01)](https://git.io/streak-stats)
  
   </div>
 </div>
