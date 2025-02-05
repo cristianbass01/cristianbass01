@@ -90,11 +90,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cristianbass01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbass01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false&hide=jupyter%20%notebook,tex" height="150" alt="languages graph" />
 
-  <div style="margin-top: 10px;">
-    
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=cristianbass01)](https://git.io/streak-stats)
- 
-  </div>
 </div>
 
 ## <img src="animations/writing_hand.png" width="30" /> How to reach me?  
