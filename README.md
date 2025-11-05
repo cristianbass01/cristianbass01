@@ -18,7 +18,7 @@
   - <img src="animations/uk.gif" width="25" /> **UCL University College London** - Summer School
     - July, 2024 – July, 2024.
   - <img src="animations/netherlands.gif" width="25" /> **Radboud University** - CyberSecurity
-    - September, 2024 – present.
+    - September, 2024 – September, 2025.
    
       
 ## <img src="animations/rocket.png" width="30"/>  Skills
